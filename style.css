@@ -178,8 +178,8 @@ button {
   content: "";
   width: 0;
   height: 100%;
-  top: 0;
-  left: 0;
+  left: 1338px;
+  top: 1759px;
   direction: rtl;
   z-index: -1;
   box-shadow:
