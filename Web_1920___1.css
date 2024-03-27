@@ -1,0 +1,149 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: Anurati;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 2570px;
+	font-family: Anurati;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: Anurati;
+}
+#ID4cb6bcbb863017f2f702e5fe07be {
+	position: absolute;
+	width: 3840px;
+	height: 2160px;
+	left: -929px;
+	top: -194px;
+	overflow: visible;
+}
+#_28 {
+	fill: rgba(255,255,255,1);
+}
+._28 {
+	filter: drop-shadow(0px -100px 50px rgba(0, 0, 0, 0.161));
+	width: 2239px;
+	height: 718px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-170.2198,655.052) rotate(17deg);
+	transform-origin: center;
+}
+#DI_V_E___I_N_T_O__OUR_REALM {
+	transform: matrix(1,0,0,1,375.4618,966.3657) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1283.978px;
+	height: 155.63421630859375px;
+	text-align: left;
+	font-family: Anurati, Anurati;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(35,35,35,1);
+}
+#RE-COLLECTION_OF__PRGRAMS {
+	left: 60px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 1037px;
+	height: 84px;
+	text-align: left;
+	font-family: Anurati, Anurati;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(255,255,255,1);
+}
+#AVAI_LABLE_NOW {
+	left: 60px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 1037px;
+	height: 84px;
+	text-align: left;
+	font-family: Anurati, Anurati;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(255,255,255,1);
+}
+#AppUI {
+	position: absolute;
+	width: 1428px;
+	height: 854px;
+	left: -90px;
+	top: 1122px;
+	overflow: visible;
+}
+#ID1612171100_70-p-fon-gori-fio {
+	filter: blur(30px);
+	position: absolute;
+	width: 604.157px;
+	height: 384px;
+	left: 1200px;
+	top: 1478.676px;
+	overflow: visible;
+}
+#_29_o {
+	fill: url(#_29_o);
+}
+._29_o {
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 90px;
+	left: 1276px;
+	top: 1732px;
+}
+#DOWNLOAD {
+	left: 1338px;
+	top: 1759px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 52px;
+	text-align: left;
+	font-family: Anurati, Anurati;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#MADE_BY_SCRI_PTED {
+	left: 620px;
+	top: 2014px;
+	position: absolute;
+	overflow: visible;
+	width: 682px;
+	height: 84px;
+	text-align: left;
+	font-family: Anurati, Anurati;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(161,161,161,1);
+}
