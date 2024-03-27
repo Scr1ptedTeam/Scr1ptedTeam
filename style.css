@@ -27,7 +27,7 @@
 	--web-enable-deep-linking: true;
 	--web-page-font: Anurati;
 }
-#ID4cb6bcbb863017f2f702e5fe07be {
+#background {
 	position: absolute;
 	width: 3840px;
 	height: 2160px;
@@ -99,33 +99,40 @@
 	top: 1122px;
 	overflow: visible;
 }
-#ID1612171100_70-p-fon-gori-fio {
-	filter: blur(30px);
+#_2 {
 	position: absolute;
-	width: 604.157px;
-	height: 384px;
-	left: 1200px;
-	top: 1478.676px;
-	overflow: visible;
-}
-#_29_o {
-	fill: url(#_29_o);
-}
-._29_o {
-	position: absolute;
-	overflow: visible;
-	width: 382px;
+	width: 402px;
 	height: 90px;
-	left: 1276px;
-	top: 1732px;
+	left: 1221px;
+	top: 1746px;
+	overflow: visible;
+}
+#_1 {
+	position: absolute;
+	width: 402px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_29_p {
+	fill: url(#_29_p);
+}
+._29_p {
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
 }
 #DOWNLOAD {
-	left: 1338px;
-	top: 1759px;
+	left: 71px;
+	top: 18px;
 	position: absolute;
 	overflow: visible;
-	width: 301px;
-	height: 52px;
+	width: 309px;
+	height: 59px;
 	text-align: left;
 	font-family: Anurati, Anurati;
 	font-style: normal;
