@@ -204,5 +204,5 @@
 
 @font-face {
     font-family: 'Anurati'; /*a name to be used later*/
-    src: "fonts/Anurati.otf"; /*URL to font*/
+    src: url("fonts/Anurati.otf"); /*URL to font*/
 }
