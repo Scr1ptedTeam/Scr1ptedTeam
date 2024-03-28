@@ -10,16 +10,8 @@
 if (window.console==null) { window["console"] = { log : function() {} } }; // some browsers do not set console
 
 
-document.getElementById('downloadButton').addEventListener('click', function() {
-    const downloadLink = document.createElement('a');
-    downloadLink.href = 'Apps/App.zip';
-    downloadLink.download = 'App.zip'; // Устанавливаем имя файла для скачивания
-
-    document.body.appendChild(downloadLink);
-    downloadLink.click();
-
-    downloadLink.remove();
-});
+const downloadLink = document.getElementById('downloadLink');
+downloadLink.href = 'scr1ptedteam.github.io/Apps/App.zip';
 
 
 
