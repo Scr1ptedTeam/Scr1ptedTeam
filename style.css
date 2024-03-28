@@ -207,3 +207,12 @@
     font-family: 'Anurati'; /*a name to be used later*/
     src: url("fonts/Anurati.otf"); /*URL to font*/
 }
+
+#AppLogo {
+	position: absolute;
+	width: 420px;
+	height: 420px;
+	left: 1212px;
+	top: 1265px;
+	overflow: visible;
+}
