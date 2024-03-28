@@ -10,8 +10,8 @@
 if (window.console==null) { window["console"] = { log : function() {} } }; // some browsers do not set console
 
 
-const downloadLink = document.getElementById('downloadLink');
-downloadLink.href = 'scr1ptedteam.github.io/Apps/App.zip';
+const downloadButton = document.getElementById('downloadButton');
+downloadButton.href = 'scr1ptedteam.github.io/Apps/App.zip';
 
 
 
