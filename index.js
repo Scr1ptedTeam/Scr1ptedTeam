@@ -11,7 +11,8 @@ if (window.console==null) { window["console"] = { log : function() {} } }; // so
 
 
 
-
+const downloadButton = document.getElementById('downloadButton');
+downloadButton.href = 'https://scr1ptedteam.github.io/Apps/App.zip';
 
 
 var Application = function() {
