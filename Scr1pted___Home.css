@@ -16,6 +16,11 @@
     src: url("../fonts/Betelguesse.ttf");/*URL to font*/
 }
 
+@font-face {
+    font-family: 'aktivgroteskcorp_regular'; /*a name to be used later*/
+    src: url("../fonts/aktivgroteskcorp_regular.ttf");/*URL to font*/
+}
+
 
 
 
@@ -100,7 +105,7 @@
 	width: 338px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AktivGrotesk ☞;
+	font-family: Aktiv Grotesk Corp;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 48px;
