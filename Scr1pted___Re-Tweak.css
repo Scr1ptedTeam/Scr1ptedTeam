@@ -1,0 +1,262 @@
+.mediaViewInfo {
+	--web-view-name: Scr1pted | Passwordify;
+	--web-view-id: Scr1pted__Passwordify;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Scr1pted__Passwordify;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Scr1pted__Re-Tweak {
+	position: absolute;
+	width: 1920px;
+	height: 1171px;
+	background-color: rgba(30,30,30,1);
+	overflow: hidden;
+	--web-view-name: Scr1pted | Passwordify;
+	--web-view-id: Scr1pted__Passwordify;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#MonitorTweak {
+	position: absolute;
+	width: 1241px;
+	height: 815px;
+	left: -31px;
+	top: -8px;
+	overflow: visible;
+}
+#_1 {
+	position: absolute;
+	width: 1527px;
+	height: 130px;
+	left: 49px;
+	top: 927px;
+	overflow: visible;
+}
+
+
+
+.card {
+	left: 49px;
+	box-shadow: 0px 0px 30px black;
+	--border-radius: 1rem;
+	height: 130px;
+	width: 1627px;
+	top: -10px;
+	aspect-ratio: 1;
+	position: absolute;
+	z-index: unset;
+	background-color: black;
+	border-radius: var(--border-radius);
+	backdrop-filter: blur(1rem);
+
+	&:after {
+		content: "";
+		position: absolute;
+		inset: 0;
+		border-radius: var(--border-radius);
+		z-index: -1;
+		background-image: linear-gradient(122.12deg, #166496 0%, #961664 100%);
+		--b: 0.5;
+		filter: brightness(var(--b));
+		transition: all calc(1s / 16 * 4) ease-in-out;
+
+		--border: 4;
+		--alpha: 0;
+		--gradient: linear-gradient(122.12deg, #166496 0%, #961664 100%);
+		--bg-size: calc(100% + (2px * var(--border)));
+		background: var(--gradient) center center / var(--bg-size) var(--bg-size);
+		border: calc(var(--border) * 1px) solid transparent;
+		mask: linear-gradient(
+				hsl(0 0% 100% / var(--alpha)),
+				hsl(0 0% 100% / var(--alpha))
+			),
+			linear-gradient(hsl(0 0% 100%), hsl(0 0% 100%));
+		mask-clip: padding-box, border-box;
+		mask-composite: intersect;
+	}
+
+	&:hover {
+		&:after {
+			--b: 1;
+			isolation: isolate;
+		}
+	}
+}
+
+
+
+
+
+
+
+._8 {
+	box-sizing: border-box;
+  position: relative;
+  max-width: 40em;
+  padding: 0.4em;
+  margin: 0px auto;
+}
+
+
+._8 {
+  padding: 1em;
+  background: white;
+}
+._8::after {
+  position: absolute;
+  content:'';
+  background: linear-gradient(135deg, rgba(100,0,217,1) 14%, rgba(201,35,253,1) 28%, rgba(41,97,253,1) 42%, rgba(46,253,65,1) 56%, rgba(253,246,52,1) 70%, rgba(253,178,59,1) 84%, rgba(252,69,69,1) 100%); 
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background-size: 400%;
+  animation: 6s linear 0s infinite alternate shift;
+}
+
+@keyframes shift {
+  0%,100% {
+    background-position: 0%;
+  }
+  
+  50% {
+    background-position: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+#Passwordify_allows_you_generat {
+	left: 75px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 1400px;
+	text-align: left;
+	font-family: Cascadia Code;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(223,223,223,1);
+}
+#_12_m {
+	fill: url(#_12_m);
+}
+._12_m {
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 648px;
+	left: 960px;
+	top: 0px;
+}
+#_11 {
+	fill: rgba(22,22,22,1);
+}
+._11 {
+	filter: drop-shadow(0px 0px 50px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 2070px;
+	height: 385px;
+	left: -7px;
+	top: 645px;
+}
+#Introducing_Passwordify {
+	filter: drop-shadow(0px 0px 20px rgba(255, 255, 255, 1));
+	left: 666px;
+	top: 729px;
+	position: absolute;
+	overflow: visible;
+	width: 590px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AktivGrotesk ☞;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(255,255,255,1);
+}
+#Re-Tweak {
+	position: absolute;
+	width: 592px;
+	height: 636px;
+	left: 1163px;
+	top: 38px;
+	overflow: visible;
+}
+
+.btn2 {
+	float: none;
+	top: 500px;
+	left: 1400px;
+  border: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  font-weight: 900;
+  font-size: 1.5em;
+  letter-spacing: 0.2em;
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+  background: none;
+  &:before, &:after {
+
+  	top: 15px;
+	left: 90px;
+    position: absolute;    
+    border-radius: 4px;
+    transform: translateX(-50%) translateY(-50%);
+    width: 631px;
+    height: 77px;
+    content: '';
+    z-index: -2;
+    background-size: 400% 400%;
+    background: linear-gradient(45deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+  }
+  &:before {
+
+    filter: blur(7px);
+    transition: all .25s ease;
+    animation: pulse 10s infinite ease;
+  }
+  &:after {
+    filter: blur(0.3px);
+  }
+  &:hover {
+    &:before {
+      width: 631px;
+      height: 77px;
+    }
+    &:after {
+    background: rgba(0,0,0,0.84);
+    }
+  }
+}
+
+@keyframes pulse {
+  from {
+    filter: blur(7px);
+  }
+  50% {
+    filter: blur(10px);
+  }
+  to {
+    filter: blur(7px);
+  }
+}
