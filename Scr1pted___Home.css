@@ -9,7 +9,12 @@
 }
 
 
+/*Fonts*/
 
+@font-face {
+    font-family: 'Betelguesse'; /*a name to be used later*/
+    src: url("../fonts/Betelguesse.ttf");/*URL to font*/
+}
 
 
 
